@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/cmanager/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/cmanager/static/js/main.bc1f64d2.chunk.js",
+    "main.js.map": "/cmanager/static/js/main.bc1f64d2.chunk.js.map",
+    "runtime-main.js": "/cmanager/static/js/runtime-main.1c35afc1.js",
+    "runtime-main.js.map": "/cmanager/static/js/runtime-main.1c35afc1.js.map",
+    "static/css/2.d9ad5f5c.chunk.css": "/cmanager/static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.eced2c1c.chunk.js": "/cmanager/static/js/2.eced2c1c.chunk.js",
+    "static/js/2.eced2c1c.chunk.js.map": "/cmanager/static/js/2.eced2c1c.chunk.js.map",
+    "index.html": "/cmanager/index.html",
+    "precache-manifest.dabb5ec58cb2d4c9bfccb1a3380c92fc.js": "/cmanager/precache-manifest.dabb5ec58cb2d4c9bfccb1a3380c92fc.js",
+    "service-worker.js": "/cmanager/service-worker.js",
+    "static/css/2.d9ad5f5c.chunk.css.map": "/cmanager/static/css/2.d9ad5f5c.chunk.css.map",
+    "static/css/main.5ecd60fb.chunk.css.map": "/cmanager/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.eced2c1c.chunk.js.LICENSE.txt": "/cmanager/static/js/2.eced2c1c.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/cmanager/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1c35afc1.js",
+    "static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.eced2c1c.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.bc1f64d2.chunk.js"
+  ]
+}
